@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @GuiCRG
+- 👋 Hi, I’m Guilherme Carvalho
 - 👀 I’m interested in data science, analyze, python, sql
 - 🌱 I’m currently learning python and power bi
