@@ -1,7 +1,24 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, meu nome é Guilherme Carvalho!
+<p align="left"> 
+ Loading...
+</p>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  Loading...
+</p>
 
-<p>Trabalhando na 4Data Driven}<br/> Eu sou Analista de Comms Intelligence</p>
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  Loading..
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"> [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-85a479218)
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20"> [Email](carvalho.carvalho.gg@outlook.com)
+ 
