@@ -5,20 +5,18 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: 
   Loading...
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas:
   Loading..
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+ 📞Contato: ⤵️
 </p>
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"> [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-85a479218)
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20"> [Email](carvalho.carvalho.gg@outlook.com)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"> [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-85a479218)   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20"> [Email](carvalho.carvalho.gg@outlook.com)
  
