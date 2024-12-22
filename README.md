@@ -13,7 +13,7 @@ tools.
 
 <b>Linguagens: 
 <span>
-  <img src="https://github.com/GuiCRG/Image/blob/main/python.png" align="center" alt="Python" width="40px">
+  <img src="https://github.com/GuiCRG/Image/blob/main/python.png" align="center" alt="Python" width="60px">
 <span>
   <img src="https://github.com/GuiCRG/Image/blob/main/Sql_data_base_with_logo.png" align="center" alt="SQL" width="60px">
 </span>
