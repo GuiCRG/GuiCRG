@@ -59,12 +59,6 @@ My main interests include **Software Engineering**, **Backend Development**, **A
 
 ---
 
-⭐ Always learning, building, and improving as a Software Engineer.
-
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"> [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-85a479218)   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="20"> [Email](carvalho.carvalho.gg@outlook.com)
- 
-
 
 
 
