@@ -29,13 +29,22 @@ My main interests include **Software Engineering**, **Backend Development**, **A
 
 - **Languages:** Python, SQL  
 - **Core Skills:**  
-  - Software Engineering fundamentals  
+  - Software/Data Engineering fundamentals  
   - Automation and scripting  
   - Data processing and system integration  
-  - Version control and collaboration  
+  - Version control and collaboration
+ 
+- **Soft Skills:**  
+  - Critical Thinking
+  - Objective Communication
+  - Agile methodologies
+  - Data Orientation
+
 
 - **Tools & Platforms:**  
-  Git & GitHub, VS Code, Jupyter Notebook  
+  Git & GitHub, VS Code, Jupyter Notebook, Google Sheets/Excel,
+  Power BI, Power Automate, Power Apps, Looker Studio.
+  
 
 - **Additional Experience:**  
   Power BI and Looker Studio (as data consumption layers)
