@@ -39,6 +39,7 @@ My main interests include **Software Engineering**, **Backend Development**, **A
   - Objective Communication
   - Agile methodologies
   - Data Orientation
+  - Teamwork and cooperation
 
 
 - **Tools & Platforms:**  
