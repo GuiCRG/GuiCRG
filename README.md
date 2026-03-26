@@ -1,4 +1,3 @@
-<img src="https://github.com/GuiCRG/Image/blob/main/4108969.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 # Hi there, I'm Guilherme Carvalho! 👋
@@ -9,6 +8,29 @@ I'm a **Data Enginner** with a strong foundation in programming, data-driven sys
 I have hands-on experience developing applications, scripts, and automated solutions using **Python**, **SQL**, and **Git**, working on real-world projects for companies like **99**, **Mercado Livre**, and **Mercado Pago**.
 
 My main interests include **Software Engineering**, **Backend Development**, **Automation**, and **Data-Oriented Systems**.
+
+
+<div align="left">
+  <a href="https://github.com/GuiCRG" target="_blank">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiCRG&show_icons=true&theme=white&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiCRG&layout=compact&langs_count=7&theme=white" alt="Top Languages"/>
+  </a>
+</div>
+
+<br>
+
+
+<div style="display: inline-block">
+   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="SqlServer" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+</div>
+
+   
+<br><br>
+
 
 ---
 
@@ -52,15 +74,6 @@ My main interests include **Software Engineering**, **Backend Development**, **A
 
 ---
 
-## 📌 What you'll find here
-
-- Automation tools and scripts  
-- Software-oriented data projects  
-- Backend logic and data processing solutions  
-- Machine learning pipelines and experiments  
-- Clean, documented, and version-controlled code  
-
----
 
 ## 🤝 Connect with me
 
