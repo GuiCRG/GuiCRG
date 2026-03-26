@@ -4,7 +4,7 @@
 # Hi there, I'm Guilherme Carvalho! 👋
 
 
-I'm a **Software Engineering Trainee** with a strong foundation in programming, data-driven systems, and process automation. I enjoy building reliable software solutions that solve real problems, improve efficiency, and scale with business needs.
+I'm a **Data Enginner** with a strong foundation in programming, data-driven systems, and process automation. I enjoy building reliable software solutions that solve real problems, improve efficiency, and scale with business needs.
 
 I have hands-on experience developing applications, scripts, and automated solutions using **Python**, **SQL**, and **Git**, working on real-world projects for companies like **99**, **Mercado Livre**, and **Mercado Pago**.
 
