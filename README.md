@@ -12,7 +12,7 @@ My main interests include **Software Engineering**, **Backend Development**, **A
 <div align="left">
   <a href="https://github.com/GuiCRG" target="_blank">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiCRG&show_icons=true&theme=white&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiCRG&layout=compact&langs_count=7&theme=white&hide=tex" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiCRG&layout=compact&langs_count=7&theme=white&hide=tex,HTML" alt="Top Languages"/>
   </a>
 </div>
 
