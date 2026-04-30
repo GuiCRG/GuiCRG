@@ -48,7 +48,7 @@ My main interests include **Software Engineering**, **Backend Development**, **A
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL  
+- **Languages:** Python(Selenium, pandas, numpy, playwrit,FastAPI,bigquery,SQL-Alchemy,Django), SQL .
 - **Core Skills:**  
   - Software/Data Engineering fundamentals  
   - Automation and scripting  
